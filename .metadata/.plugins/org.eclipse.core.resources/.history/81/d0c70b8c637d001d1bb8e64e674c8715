@@ -1,0 +1,25 @@
+package atividade1;
+
+public class Porta {
+	public Boolean aberta;
+	public String cor;
+	public Double dimensaoX;
+	public Double dimensaoY;
+	public Double dimensaoZ;
+	
+	public void abre() {
+		
+	}
+	
+	public void fecha() {
+		
+	}
+	
+	public void pinta(String s) {
+		
+	}
+	
+	public boolean estaAberta() {
+		return false;
+	}
+}

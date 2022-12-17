@@ -1,0 +1,19 @@
+package atividade1;
+
+public class Casa {
+	public String cor;
+	public Porta porta1;
+	public Porta porta2;
+	public Porta porta3;
+	public Pessoa proprietario;
+	
+	public void pinta(String s) {
+		
+	}
+	
+	public int qtdPortasEstaoAbertas() {
+		return 0;
+	}
+	
+	
+}
