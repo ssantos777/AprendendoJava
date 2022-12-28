@@ -2,9 +2,7 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438568958_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438569062_1" label="Java Test Sources" name="Java Test Sources"/>
-<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438705336_3" label="Aulas" name="Aulas">
-<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/JavaCompleto_NelioAlves" type="4"/>
-</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438705336_3" label="Aulas" name="Aulas"/>
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438739752_4" label="Faculdade" name="Faculdade"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438571550_2" label="Window Working Set" name="Aggregate for window 1670438571550"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670439002279_5" label="Window Working Set" name="Aggregate for window 1670439002279"/>

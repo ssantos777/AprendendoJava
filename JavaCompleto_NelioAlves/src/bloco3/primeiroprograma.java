@@ -1,6 +1,6 @@
 package bloco3;
 
-public class primeiroprog {
+public class primeiroprograma {
 
 	public static void main(String[] args) {
 		
