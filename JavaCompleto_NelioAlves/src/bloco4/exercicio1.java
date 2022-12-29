@@ -24,8 +24,5 @@ public class exercicio1 {
 	Locale.setDefault(Locale.US);
 	System.out.printf("Us decimal point: %.3f", measure);
 	
-	
-
 	}
-
 }
