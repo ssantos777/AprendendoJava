@@ -6,6 +6,7 @@
 <workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438739752_4" label="Faculdade" name="Faculdade"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670438571550_2" label="Window Working Set" name="Aggregate for window 1670438571550"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1670439002279_5" label="Window Working Set" name="Aggregate for window 1670439002279"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1672816770050_6" label="Window Working Set" name="Aggregate for window 1672816770050"/>
 <mruList name="Faculdade"/>
 <mruList name="Aulas"/>
 </workingSetManager>
